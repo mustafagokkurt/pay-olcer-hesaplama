@@ -1,0 +1,29 @@
+td {
+  border: 1px solid;
+  width: 50%;
+}
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td,
+th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  /* background-color: #dddddd; */
+}
+
+.gray {
+  background-color: #dddddd53;
+}
+
+.dark-gray {
+  background-color: #dddddd;
+}
